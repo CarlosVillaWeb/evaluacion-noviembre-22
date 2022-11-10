@@ -1,4 +1,7 @@
 import React from 'react'
+import Estatus from './components/Estatus'
+import Posteos from './components/Posteos'
+
 // El componente App es el padre de:
 // - Estatus
 // - Posteos
